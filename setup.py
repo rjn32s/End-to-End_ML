@@ -17,7 +17,7 @@ def get_requirements(file_path:str)-> List[str]:
 
 
 setup(
-    name = "ML Proeject",
+    name = "ML Project",
     version="0.0.1",
     author="Rajan",
     author_email="rshukla2k@gmail.com",
